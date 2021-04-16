@@ -1,3 +1,4 @@
+#bitcoin mining algorithm
 from hashlib import sha256
 MAX_NONCE = 1000000
 def  SHA256(text):
